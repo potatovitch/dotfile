@@ -1,0 +1,9 @@
+[19:06:30 2025-08-30] FETCHING Version 2.41.0
+[19:06:30 2025-08-30] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.41.0/spicetify-2.41.0-linux-amd64.tar.gz
+[19:06:32 2025-08-30] EXTRACTING /home/yuneria/.spicetify/spicetify.tar.gz
+[19:06:32 2025-08-30] SETTING EXECUTABLE PERMISSIONS TO /home/yuneria/.spicetify/spicetify
+[19:06:32 2025-08-30] REMOVING /home/yuneria/.spicetify/spicetify.tar.gz
+[19:06:32 2025-08-30] spicetify path already set in /home/yuneria/.bashrc, continuing...
+[19:06:32 2025-08-30] spicetify path already set in /home/yuneria/.bash_profile, continuing...
+[19:06:32 2025-08-30] spicetify v2.41.0 was installed successfully to /home/yuneria/.spicetify
+[19:06:32 2025-08-30] Run 'spicetify --help' to get started
